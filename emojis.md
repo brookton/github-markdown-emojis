@@ -1,6 +1,8 @@
-See Also: 
-(Github's Emoji API Database)[https://api.github.com/emojis]
-(Searchable Github Emoji Index)[https://github-emoji-list.herokuapp.com/]
+# All The Github Emojis!
+
+Resources:
+- [Github's Emoji API Database](https://api.github.com/emojis)
+- [Searchable Github Emoji Index](https://github-emoji-list.herokuapp.com/)
 
 
 People
