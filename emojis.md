@@ -1,3 +1,8 @@
+See Also: 
+(Github's Emoji API Database)[https://api.github.com/emojis]
+(Searchable Github Emoji Index)[https://github-emoji-list.herokuapp.com/]
+
+
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
